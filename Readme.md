@@ -1,3 +1,5 @@
+Información sobre el mapa que muestra los casos de COVID por Estado y por Municipio
+
 Visualización liderada por el Instituto Politécnico Nacional, CICATA Querétaro. Plataforma de soporte: Arcgis. 
 Fuentes de datos: Secretaría de Salud, https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico 
 Blog de información: https://github.com/CICATA/Mapa-COVID19
