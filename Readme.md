@@ -28,6 +28,10 @@ Querétaro, 76090, México</br>
 jsalasr@ipn.mx ó salas@ieee.org</br>
 Joaquín Salas</br>
 
+## Navegadores recomendados 
+* Google Chrome
+* Mozilla Firefox
+* Microsoft Edge
 
 
 ## Referencias
