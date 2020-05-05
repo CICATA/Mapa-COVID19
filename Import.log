@@ -1,0 +1,42 @@
+﻿Timestamp	Filename	Error	Message
+2020-05-04 14:03:06.346 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:03:06.350 -0500	estadisticaESTADOS_cambio	0	script steps imported : 7
+2020-05-04 14:03:06.352 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:05:48.899 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:05:48.909 -0500	estadisticaESTADOS_cambio	0	script steps imported : 7
+2020-05-04 14:05:48.911 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:10:33.574 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:10:33.584 -0500	estadisticaMUNICIPIOS_cambio	0	script steps imported : 7
+2020-05-04 14:10:33.584 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:14:23.986 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:14:23.995 -0500	estadisticaMUNICIPIOS_cambio	0	script steps imported : 7
+2020-05-04 14:14:23.997 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:17:34.164 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:17:34.175 -0500	estadisticaMUNICIPIOS_cambio	0	script steps imported : 7
+2020-05-04 14:17:34.176 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:20:06.812 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:20:06.822 -0500	estadisticaMUNICIPIOS_cambio	0	script steps imported : 7
+2020-05-04 14:20:06.823 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 14:20:47.568 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 14:20:47.577 -0500	estadisticaMUNICIPIOS_cambio	0	script steps imported : 7
+2020-05-04 14:20:47.578 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 15:13:36.662 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 15:13:36.664 -0500	arreglar	0	script steps imported : 1
+2020-05-04 15:13:36.665 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 16:57:16.209 -0500	DatosAbiertos.fmp12	0	Import of scripts from clipboard started
+2020-05-04 16:57:16.216 -0500	DatosAbiertos.fmp12	0	Script “arreglarActual” imported as “arreglarActual 2” since a script named “arreglarActual” already exists.
+2020-05-04 16:57:16.219 -0500	arreglarActual 2	0	script steps imported : 9
+2020-05-04 16:57:16.220 -0500	DatosAbiertos.fmp12	0	scripts imported : 1
+2020-05-04 16:57:16.221 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 17:05:26.421 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 17:05:26.430 -0500	arreglarAnterior	0	script steps imported : 1
+2020-05-04 17:05:26.431 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 17:06:03.235 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 17:06:03.246 -0500	estadisticaMUNICIPIOS	0	script steps imported : 1
+2020-05-04 17:06:03.247 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 17:06:14.405 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 17:06:14.413 -0500	estadisticaESTADOS	0	script steps imported : 2
+2020-05-04 17:06:14.414 -0500	DatosAbiertos.fmp12	0	Import completed
+2020-05-04 17:48:10.021 -0500	DatosAbiertos.fmp12	0	Import of script steps from clipboard started
+2020-05-04 17:48:10.022 -0500	estadisticaMUNICIPIOS	0	script steps imported : 2
+2020-05-04 17:48:10.023 -0500	DatosAbiertos.fmp12	0	Import completed
